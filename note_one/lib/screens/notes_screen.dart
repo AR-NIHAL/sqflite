@@ -31,7 +31,7 @@ class _NotesScreenState extends State<NotesScreen> {
     const Color(0xFFE1F5FE), // Pale Cyan/Light Blue
     const Color(0xFFFFF3E0), // Light Orange/Cream
     const Color(0xFFF1F8E9), // Pale Green
-    const Color(0xFFD7CCC8), // Light Brown/Tuscany
+    const Color(0xFFD7CCC8),// Light Brown/Tuscany
     const Color(0xFFFFCDD2), // Pale Red/Light Coral
   ];
 
